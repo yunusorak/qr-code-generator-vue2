@@ -1,5 +1,10 @@
 # qrcode
 
+
+```
+https://www.npmjs.com/search?q=qrcode.vue
+```
+
 ## Project setup
 ```
 npm install
