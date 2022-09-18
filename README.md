@@ -1,6 +1,7 @@
 # qrcode!
 
-(https://user-images.githubusercontent.com/40091165/190898919-b9d3b3dc-45a9-4aa4-ae94-f00e8c4b1a1e.PNG)
+![alt](https://user-images.githubusercontent.com/40091165/190898919-b9d3b3dc-45a9-4aa4-ae94-f00e8c4b1a1e.PNG)
+
 
 [live](https://qrcode-vue2.netlify.app)
 
