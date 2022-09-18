@@ -1,9 +1,6 @@
 # qrcode
 
-# live
-```
-(https://qrcode-vue2.netlify.app).
-```
+# [live](https://qrcode-vue2.netlify.app).
 
 ```
 [From:](https://www.npmjs.com/search?q=qrcode.vue).
